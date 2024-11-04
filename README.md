@@ -11,7 +11,7 @@
     $ git clone https://github.com/ronaldorizki/hillaw
 
     # Go into the repository
-    $ cd happybirthday
+    $ cd hillaw
 
     # Open it with your text editor
     $ code .
